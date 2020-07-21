@@ -2,5 +2,5 @@
 api_key = "YOUR KEY GOES HERE"
 
 # Google API key
-g_key = "AIzaSyClno5VDH3lthA-MKmM-5LJIrpVxCB_AJ0"
+g_key = "YOUR KEY GOES HERE"
 
